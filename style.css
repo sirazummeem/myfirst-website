@@ -1,0 +1,119 @@
+body {
+  font-family: "Raleway", sans-serif;
+  margin-right: 0px;
+  font-weight: bold;
+  font-size: 35px;
+}
+h1 {
+  font-size: 50px;
+}
+.name-highlight {
+  color: darkorange;
+}
+.half-width {
+  width: 40%;
+  float: left;
+  margin-left: 5%;
+  padding-left: 2%;
+}
+.half-width img {
+  width: 100%;
+}
+.header-bg {
+  background-image: url("personal-website/header-bg.png");
+  background-repeat: no-repeat;
+}
+section {
+  height: 500px;
+  padding-bottom: 500px;
+}
+.link-button {
+  text-decoration: none;
+  background-image: linear-gradient(hsl(313, 73%, 65%), rgb(201, 9, 143));
+  padding: 10px 20px;
+  border-radius: 5px;
+  color: aliceblue;
+  font-weight: 700;
+}
+.biography {
+  background-image: url("personal-website/biography-bg.png");
+  background-repeat: no-repeat;
+}
+.latestwork {
+  box-shadow: 10px 10px 40px rgba(128, 128, 128, 0.418);
+  border-radius: 5px;
+  border: whitesmoke;
+  height: cover;
+  background-color: whitesmoke;
+}
+.banner3 {
+  height: 500px;
+  background-image: url("./images/latest-work-bg.png");
+  background-repeat: no-repeat;
+}
+.work {
+  width: 25%;
+  float: left;
+  margin-top: 5%;
+  margin-left: 5%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.work img {
+  width: 100%;
+}
+.mywork {
+  font-size: 60px;
+  text-align: center;
+  font-weight: 900;
+  color: rgb(12, 12, 12);
+}
+.banner4 {
+  height: 500px;
+  background-image: url("personal-website/footer-bg.png");
+  background-repeat: no-repeat;
+}
+.client {
+  text-align: center;
+  font-weight: 900;
+}
+.designition {
+  color: dimgray;
+  text-align: center;
+  font-size: medium;
+}
+.compliment {
+  text-align: center;
+  color: rgb(14, 13, 13);
+
+  margin-right: 5%;
+  margin-left: 5%;
+  padding-top: 2%;
+}
+.compliment-para {
+  color: black;
+}
+.contact {
+  margin-top: 5%;
+  width: 100%;
+  text-align: center;
+}
+.email {
+  text-decoration: none;
+  background-color: purple;
+  border-radius: 5px;
+  padding: 5px 50px;
+  color: azure;
+  font-weight: 200;
+  display: inline-block;
+}
+.email1 {
+  text-align: center;
+  color: white;
+  font-size: small;
+  font-weight: lighter;
+}
+footer p {
+  text-align: center;
+}
